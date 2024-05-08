@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Legion\\Lp1Semana09\\IntCollections\\IntCollections.csproj": {}
+    "C:\\Users\\Legion\\Lp1Semana09\\FilePower2\\FilePower2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Legion\\Lp1Semana09\\IntCollections\\IntCollections.csproj": {
+    "C:\\Users\\Legion\\Lp1Semana09\\FilePower2\\FilePower2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Legion\\Lp1Semana09\\IntCollections\\IntCollections.csproj",
-        "projectName": "IntCollections",
-        "projectPath": "C:\\Users\\Legion\\Lp1Semana09\\IntCollections\\IntCollections.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Lp1Semana09\\FilePower2\\FilePower2.csproj",
+        "projectName": "FilePower2",
+        "projectPath": "C:\\Users\\Legion\\Lp1Semana09\\FilePower2\\FilePower2.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Legion\\Lp1Semana09\\IntCollections\\obj\\",
+        "outputPath": "C:\\Users\\Legion\\Lp1Semana09\\FilePower2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
